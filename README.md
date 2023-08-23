@@ -60,10 +60,14 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=21asphyxia&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&count_private=true" alt="asphyxia's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21asphyxia&show_icons=true&hide_border=true&theme=radical" width="37%" alt="asphyxia's Top Languages">
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=21asphyxia&theme=radical" alt="asphyxia's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=21asphyxia&show_icons=true&locale=en&layout=compact&theme=radical" alt="asphyxia's stats" />
+</p>
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=21asphyxia&show_icons=true&locale=en&theme=radical" alt="Streak" />
+</p>
 
 
 
@@ -75,7 +79,7 @@
 
 <br>
 
-<div align="center">
+<div >
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
