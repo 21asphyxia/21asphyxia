@@ -23,7 +23,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am currently a Full Stack Web Developer at Cegedim Maroc
+### I am currently a Full Stack Web Developer at Cegedim
 - 🔭 I’m currently working on my portfolio website :grin:
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate with other Developers :wink:
